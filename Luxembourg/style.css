@@ -1,0 +1,36 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+
+.bodu {
+    margin: auto;
+}
+.flag {
+    width:1000px;
+    height:500px;
+    
+}
+
+.stripe {
+    width:100%;
+    height:166.666666667;
+    
+}
+
+.red {
+    color:red;
+}
+
+.white {
+    color:white;
+}
+
+.blue {
+    color:blue;
+}

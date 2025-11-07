@@ -9,21 +9,21 @@ a {
 }
 .stripe{
 height: 200px;
-width: 800px;
+width: 600px;
 }
-.red{
-background-color: red;
+.blue{
+background-color: #0056B8;
 }
-.gold{
-background-color:#fae140 ;
+.yellow{
+background-color:#FFD800 ;
 }
 .black{
 background-color: black;
 }
 .flag{
    margin:auto; 
-   width: 800px;
-   height: 600px;
+   width: 600px;
+   height: 400px;
 }
 .body{
 width:100%;
